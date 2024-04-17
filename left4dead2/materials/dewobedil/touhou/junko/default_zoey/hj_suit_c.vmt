@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/touhou/junko/default_zoey/HJ_suit_c"
+	"$nodecal" 1
+	"$lightwarptexture" "models/dewobedil/touhou/junko/default_zoey/toon"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
