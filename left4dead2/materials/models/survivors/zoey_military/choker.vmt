@@ -1,0 +1,18 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+$baseTexture "models\survivors\zoey_military/choker"
+$bumpmap "models\survivors\zoey_military/choker_n"
+$halflambert 1
+$phong 1
+$phongboost "6"
+$normalmapalphaphongmask 1
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.5 .65 30]"
+$phongalbedotint 1
+$ambientocclusion 1
+}
+}
