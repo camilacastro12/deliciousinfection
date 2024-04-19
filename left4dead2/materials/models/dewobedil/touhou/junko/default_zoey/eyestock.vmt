@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/dewobedil/touhou/junko/default_zoey/ju_face"
-	"$nodecal" 1
-	"$alphatest" 1
-	"$lightwarptexture" "models/dewobedil/touhou/junko/default_zoey/toon"
-}
