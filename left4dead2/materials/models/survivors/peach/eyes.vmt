@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+
+$baseTexture "models\survivors\peach/eyes"
+$bumpmap "models\survivors\peach/eyesnormals"
+$halflambert 1
+$phong 0
+$phongboost "1.5"
+$phongexponent 5
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.5 .85 30]"
+$ambientocclusion 1
+}

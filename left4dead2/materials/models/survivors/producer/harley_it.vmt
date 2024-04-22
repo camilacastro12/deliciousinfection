@@ -1,0 +1,26 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+$baseTexture             "models/survivors/producer/HarleyT"
+$bumpmap             "models/survivors/producer/HarleyB"
+$phongexponenttexture    "models/survivors/producer/HarleyS"
+	"$normalmapalphaenvmapmask" 1
+$phong 1
+	"$phongexponent" "1"
+$phongboost 0
+$phongexponent 1
+$phongtint "[1 1 1]"
+"$phongalbedotint"	"1"
+$phongfresnelranges "[0 0.5 1]"
+$ambientocclusion 1
+	"$rimlight" "1"	
+                "$basemapalphaphongmask"	"0"
+	"$rimlightexponent" "4" 
+	"$invertphongmask"	"0"
+	"$halflambert" "1"	
+	"$surfaceprop" "Flesh"
+	"$nolod" 1
+}
+}
